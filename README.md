@@ -1,1 +1,3 @@
-# JS-guess-my-number
+# 05-Guess-My-Number
+
+JavaScript Guess My Number Game
